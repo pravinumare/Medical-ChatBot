@@ -1,0 +1,7 @@
+langchain
+streamlit
+langchain-pinecone
+langchain_community
+sentence-transformers
+"pinecone[grpc]"
+ctransformers
